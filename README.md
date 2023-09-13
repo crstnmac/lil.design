@@ -1,5 +1,5 @@
 # lil.design
-Known as lil.design is an app used to post UI/UX animations and interactions
+lil.design is an app used to post UI/UX animations and interactions
 - lil.design is a unique social media platform that brings together the best of Twitter and TikTok, offering users a dynamic and engaging experience. 
 - Short-Form Video Content: Users can create and share short, captivating video clips (similar to TikTok) to express themselves creatively. 
 - Tweet-Like Posts: In addition to videos, users can share text-based posts similar to tweets on Twitter, allowing for quick updates, thoughts, and insights. 
