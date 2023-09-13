@@ -7,6 +7,4 @@ Known as lil.design is an app used to post UI/UX animations and interactions
 - Discover and Explore: A discovery feed that curates content in the form of scrollable video feed
 - Profile Customization: Users can personalize their profiles with bios, profile pictures, and links, making it their own space on the platform.
 
-
-https://github.com/crstnmac/twictoker/assets/20360870/e06d554a-dd95-44a0-9a4a-6af4f651053f
-
+[Demo](https://drive.google.com/file/d/17QtFkFp2aSc2xs-Bh0XwuuMkQEQk4SS1/view?usp=sharing)
